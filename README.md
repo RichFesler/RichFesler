@@ -1,7 +1,7 @@
 # Rich Fesler
 
-Systems Architect / Fractional CTO  
-I build and harden systems end-to-end: hardware → software → networks → security → operations.
+Chief Architect 
+I build and harden systems end-to-end: hardware → software → networks → security → operations ....for many years, and counting.
 
 ## Credibility
 - Built my first computer in the 1970s around an **Intel 8008**. Keyboard? LOL: an **8-bit switch array** (toggle-in / lights-out)
@@ -11,4 +11,4 @@ I build and harden systems end-to-end: hardware → software → networks → se
 - **IEEE member** • FCC Amateur Radio (expired) • **Tower Climbing certified**
 
 ## Focus today
-Edge-first operational systems: Raspberry Pi fleets + Node-RED control planes + MQTT event plumbing, with offline voice/audio, situational-awareness alerts, and observability-heavy reliability (health/heartbeat, watchdogs, fast diagnostics).
+Edge-first operational systems: Raspberry Pi fleets + Node-RED control planes + MQTT event plumbing, with offline voice/audio, situational-awareness alerts, and observability-heavy reliability (health/heartbeat, watchdogs, fast diagnostics). And, ofcourse, AI like the rest of us.
