@@ -7,7 +7,7 @@ I build and harden systems end-to-end: hardware → software → networks → se
 ## Credibility
 - Built my first computer in the 1970s around an **Intel 8008**. Keyboard? LOL: an **8-bit switch array** (toggle-in / lights-out)
 - California Mathlete Finalist (1980s). **Survival Research Laboratories (SF)** • built/exhibited **robots**, incl. **World’s Fair (1986)**
-- **Silicon Valley executive** experience leading enterprise delivery and teams (1985-2005)
+- **Silicon Valley executive** leadership in enterprise technology delivery and technical teams (1985-2005)
 - Law-Enforcement Command Staff: **DOJ/CJIS-aligned security**, **surveillance**, **digital forensics**, 911/radios/comms, physical + virtual security (2010)
 - **IEEE member** • FCC Amateur Radio (expired) • **Tower Climbing certified**
 
