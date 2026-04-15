@@ -1,6 +1,7 @@
 # Rich Fesler
 
-Chief Architect 
+Chief Architect
+
 I build and harden systems end-to-end: hardware → software → networks → security → operations ....for many years, and counting.
 
 ## Credibility
